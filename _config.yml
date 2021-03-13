@@ -30,8 +30,8 @@ sharing:
 disqus_shortname: 'perfectlyrandom-trio'
 
 # Jekyll configuration
-permalink: /:year/:month/:day/:title/
-paginate: 4
+permalink: /:title.html
+paginate: 8
 
 # Markdown
 markdown: redcarpet
