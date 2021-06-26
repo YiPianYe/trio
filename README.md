@@ -1,5 +1,5 @@
 # Trio
-
+http://www.perfectlyrandom.org/trio/
 Trio is a simple, content-focused, responsive, mobile-friendly [Jekyll](http://jekyllrb.com/) theme. Trio comes with support for these things out-of-the-box:
 
 * RSS feed
